@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const excludedExtensions = ['.ts', '.js'];
+const excludedExtensions = ['.ts'];
 
 const srcDir = path.resolve(__dirname, '../src');
 const distDir = path.resolve(__dirname, '../dist');
