@@ -5,6 +5,7 @@ export const PageType = {
 	MAP_GAME_2: 'map-game-2',
 	MULTIPLE_CHOICE_GAME: 'mc-game',
 	PHOTO_GAME: 'photo-game',
+	POINT_CLICKER_GAME: 'point-clicker-game',
 	SUDDEN_DEATH_GAME: 'sd-game',
 	TEXT_GAME: 'text-game',
 	TILE_GAME: 'tile-game',

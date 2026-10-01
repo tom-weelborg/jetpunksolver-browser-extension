@@ -28,6 +28,10 @@ export default {
 	multipleChoiceQuizAnswerSelectorPrefix: '#choice-button-',
 	multipleChoiceQuizFinishButtonSelector: '.finish-mc',
 
+	pointClickerQuizAnswerSelectorPrefix: '#grid .grid-item[data-id="',
+	pointClickerQuizAnswerSelectorSuffix: '"]',
+	pointClickerQuizAnswerChosen: '.chosen',
+
 	suddenDeathQuizAnswerSelectorPrefix: '[data-id="',
 	suddenDeathQuizAnswerSelectorSuffix: '"]',
 	suddenDeathQuizCorrectAnswerSelector: '.green',
